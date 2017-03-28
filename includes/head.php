@@ -7,6 +7,5 @@
     <!-- <script src="https://use.fontawesome.com/46a3c72b16.js"></script> -->
     <link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" type="text/css">
-
     <script src="css/jquery-3.2.0.min.js"></script>
 </head>
